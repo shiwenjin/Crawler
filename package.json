@@ -1,0 +1,30 @@
+{
+  "name": "Crawler",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shiwenjin/Crawler.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shiwenjin/Crawler/issues"
+  },
+  "homepage": "https://github.com/shiwenjin/Crawler#readme",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "crypto-js": "^4.0.0",
+    "koa": "^2.13.1",
+    "koa-bodyparser": "^4.3.0",
+    "koa-router": "^10.0.0",
+    "moment": "^2.29.1",
+    "request": "^2.88.2"
+  }
+}
